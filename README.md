@@ -24,13 +24,3 @@ I work where coding agents meet cloud platforms. My focus is giving agents enoug
 ```bash
 npx skills add catalystbyzoho/agent-skills
 ```
-
-**[my-home-3D](https://github.com/deepakthamizhK/my-home-3D)**: a 3D house-plan prototype built with Claude. [Live demo](https://myhome3d.vercel.app)
-
-### Now
-
-Eval-driven hardening of the skills: verifying SDK and REST contracts against live services, and region/data-center coverage.
-
-### Elsewhere
-
-Notes on agents, serverless and deployment: [x.com/deepakThamizhK](https://x.com/deepakThamizhK)
