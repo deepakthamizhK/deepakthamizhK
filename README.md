@@ -12,8 +12,5 @@ npx skills add catalystbyzoho/agent-skills
 
 </td></tr></table>
 
-<br>
-
-#### Writing
 
 [Why Agent Skills?](https://catalyst.zoho.com/blog/catalyst-agent-skills-teaching-ai-agents-how-to-build-on-catalyst.html)
