@@ -6,14 +6,14 @@ Product Management, [Catalyst by Zoho](https://catalyst.zoho.com): your agent-re
 
 **[catalystbyzoho/agent-skills](https://github.com/catalystbyzoho/agent-skills)**
 
-#### Install
-
 ```bash
 npx skills add catalystbyzoho/agent-skills
 ```
 
+</td></tr></table>
+
+<br>
+
 #### Writing
 
 [Why Agent Skills?](https://catalyst.zoho.com/blog/catalyst-agent-skills-teaching-ai-agents-how-to-build-on-catalyst.html)
-
-</td></tr></table>
