@@ -1,6 +1,8 @@
-Product Manager, [Catalyst by Zoho](https://catalyst.zoho.com): your agent-ready cloud platform for serverless compute, hosting and data.
+Product Management, [Catalyst by Zoho](https://catalyst.zoho.com): your agent-ready cloud platform for serverless compute, hosting and data.
 
-<table><tr><td>
+<br>
+
+<table><tr><td width="600">
 
 **[catalystbyzoho/agent-skills](https://github.com/catalystbyzoho/agent-skills)**
 
